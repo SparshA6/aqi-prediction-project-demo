@@ -1,5 +1,9 @@
 # AQI Prediction - public historical dashboard
 
+**Live demo:** https://sparsha6.github.io/aqi-prediction-project-demo/
+
+**Local prediction app:** Download `AQI_Local_Demo.zip` from the live demo or this repository.
+
 Open `index.html` in a browser or place this directory on a static web host. It needs no server, account, or API key. It embeds saved 2024 same-day, 2025 GRU next-day, and January-September 2026 weather-model backtests.
 
 Visitors can choose a city and station, change dates, toggle chart series, inspect daily values, compare paired historical models, search and sort stations, and export selected rows. The embedded values are fixed at the time this package was built. They are not live AQI readings or a score for the reserved October-December 2026 prospective study.
